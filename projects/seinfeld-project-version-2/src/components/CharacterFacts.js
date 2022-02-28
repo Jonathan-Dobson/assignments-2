@@ -1,6 +1,6 @@
 import React from 'react'
 import {withChar} from './ContextCharacters'
-
+x
 const CharacterFacts =(props)=>{
     console.log("CharacterFacts Props",props);
     const mappedImgs = props.characters.map(char=>{
